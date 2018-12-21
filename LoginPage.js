@@ -25,7 +25,7 @@ class LoginPage extends React.Component {
         return (
             
             <div align="center" >
-                <img alt="Remy Sharp" src="http://clinikk.com/resources/images/logo_white.png" className="clinikkLogo" />
+                <img alt="Remy Sharp" src="" />
                 <div>
                     <form onSubmit={this.onFormSubmit}>
                     <Card className="cardStyle">
